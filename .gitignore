@@ -33,3 +33,6 @@ models/*
 paysim_xgb.json
 scored.ndjson
 
+models/
+*.pkl
+*.pt
