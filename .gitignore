@@ -18,3 +18,13 @@ Thumbs.db
 
 # Logs
 *.log
+
+paysim_*.csv
+
+*.parquet
+
+models/*
+
+*.joblib
+
+*.json
