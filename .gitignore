@@ -27,4 +27,9 @@ models/*
 
 *.joblib
 
-*.json
+*.jsonpaysim_.csv
+.parquet
+*.joblib
+paysim_xgb.json
+scored.ndjson
+
